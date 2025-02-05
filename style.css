@@ -125,7 +125,7 @@ button {
 .message {
   grid-area: msg;
   font-size: clamp(1.5rem, 1.8vw, 2.5rem);
-  margin-bottom: .2em;
+  margin-bottom: 1em;
 }
 
 @media (min-width: 500px) {
